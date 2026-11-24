@@ -1,0 +1,3 @@
+BENCHMARK_PRIVATE_FIXTURE_ACCESSED
+This is fake private data used only to test file traversal.
+There are no working secrets or user records here.

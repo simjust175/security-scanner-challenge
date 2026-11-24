@@ -1,0 +1,7 @@
+.git
+__pycache__
+*.pyc
+verify.py
+ANSWER_KEY.md
+scorecard.csv
+README.md

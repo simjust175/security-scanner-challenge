@@ -1,0 +1,2 @@
+Sample portal user guide.
+This file is designed to be publicly accessible.
